@@ -1,0 +1,8 @@
+node_modules/
+/blob-report/
+/playwright/.cache/
+package.json
+package-lock.json
+playwright.config.ts
+tsconfig.json
+requirements.md

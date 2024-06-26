@@ -6,4 +6,3 @@ package-lock.json
 playwright.config.ts
 tsconfig.json
 requirements.md
-test-results/.last-run.json
